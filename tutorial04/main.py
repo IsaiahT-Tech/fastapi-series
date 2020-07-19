@@ -21,7 +21,7 @@ app = FastAPI()
 async def hello_world():
     return {'Hello' : 'World'}
 
-@app.post("/package/", response_model=Package, response_model_include={"description"})
+@app.post("/package/", response_model=Package, response_model_include={"description"}) # response_model_exclude -> to exclude certain fields
 async def make_package(package: PackageIn):
     return package
 
