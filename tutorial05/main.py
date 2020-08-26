@@ -51,7 +51,7 @@ async def update_todo(id: int, todo: Todo):
         raise HTTPException(status_code=404, detail="Todo Not Found")
 
 @app.delete('/todo/{id}')
-async def delete_linux(id: int):
+async def delete_todo(id: int):
 
     try:
 
