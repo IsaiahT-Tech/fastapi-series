@@ -12,7 +12,7 @@ async def get_component(component_id: int):
     return {"component_id": component_id}
 
 @app.get("/component/")
-async def read_component(number: int, text: Optional[str]):  # query parameter
+async def read_component(number: int, text: Optional[str] = None):  # query parameter
     return {"number": number, "text": text}
 
 
