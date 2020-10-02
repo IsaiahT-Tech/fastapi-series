@@ -7,7 +7,7 @@
 5. [FastAPI Series | Tutorial 05 (Simple Todo API)](https://youtu.be/xq3IhXROGJU)
 6. [FastAPI Series | Tutorial 06 (Forms)](https://www.youtube.com/watch?v=rxS2_wOkbhE)
 7. [FastAPI Series | Tutorial 07 (Tortoise ORM with FastAPI Integration)](https://youtu.be/JDoS-YSlH-o)
-8. [FastAPI Series | Tutorial 07 Part 2 (Tortoise ORM with FastAPI Integration)](https://youtu.be/JDoS-YSlH-o)
+8. [FastAPI Series | Tutorial 07 Part 2 (Tortoise ORM with FastAPI Integration)](https://youtu.be/IK3X4R0KIQs)
 
 #### FastAPI
 
