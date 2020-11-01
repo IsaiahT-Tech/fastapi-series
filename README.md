@@ -8,7 +8,7 @@
 6. [FastAPI Series | Tutorial 06 (Forms)](https://www.youtube.com/watch?v=rxS2_wOkbhE)
 7. [FastAPI Series | Tutorial 07 (Tortoise ORM with FastAPI Integration)](https://youtu.be/JDoS-YSlH-o)
 7 (1). [FastAPI Series | Tutorial 07 Part 2 (Tortoise ORM with FastAPI Integration)](https://youtu.be/IK3X4R0KIQs)
-8 . [FastAPI Series | Tutorial 08 (Basic Jinja2 Templates with FastAPI)](https://youtu.be/hCMNST2BKpU)
+8. [FastAPI Series | Tutorial 08 (Basic Jinja2 Templates with FastAPI)](https://youtu.be/hCMNST2BKpU)
 
 #### FastAPI
 
