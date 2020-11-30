@@ -9,7 +9,7 @@
 7. [FastAPI Series | Tutorial 07 (Tortoise ORM with FastAPI Integration)](https://youtu.be/JDoS-YSlH-o)
 8. [FastAPI Series | Tutorial 07 Part 2 (Tortoise ORM with FastAPI Integration)](https://youtu.be/IK3X4R0KIQs)
 9. [FastAPI Series | Tutorial 08 (Basic Jinja2 Templates with FastAPI)](https://youtu.be/hCMNST2BKpU)
-
+10. [FastAPI Series | Tutorial 09 Async SQLalchemy with Databases](https://youtu.be/tplFMhr1HPI)
 #### FastAPI
 
 * **[FastAPI Docs](https://fastapi.tiangolo.com)**
