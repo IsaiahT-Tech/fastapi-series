@@ -10,8 +10,8 @@
      * [FastAPI Series | Tutorial 07 (Tortoise ORM with FastAPI Integration)](https://youtu.be/JDoS-YSlH-o)
      * [FastAPI Series | Tutorial 07 Part 2 (Tortoise ORM with FastAPI Integration)](https://youtu.be/IK3X4R0KIQs)
 8. [FastAPI Series | Tutorial 08 (Basic Jinja2 Templates with FastAPI)](https://youtu.be/hCMNST2BKpU)
-9. [FastAPI Series | Tutorial 09 Async SQLalchemy with Databases](https://youtu.be/tplFMhr1HPI)
-10. [FastAPI Series | Tutorial 10 Introduction to Testing with FastAPI](https://youtu.be/J7wh5iCydDI)
+9. [FastAPI Series | Tutorial 09 (Async Databases with FastAPI)](https://youtu.be/tplFMhr1HPI)
+10. [FastAPI Series | Tutorial 10 (Introduction to Testing with FastAPI)](https://youtu.be/J7wh5iCydDI)
 11. [FastAPI Series | Tutorial 11 (Testing A Todo API)](https://youtu.be/bBM-heTAwCA)
 
 #### FastAPI
