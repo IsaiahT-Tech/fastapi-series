@@ -7,3 +7,4 @@ uvicorn==0.12.2
 databases==0.4.1
 tortoise-orm==0.16.21
 jinja2==2.11.3
+pytest==6.2.2
