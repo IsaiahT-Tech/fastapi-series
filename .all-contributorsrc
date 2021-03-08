@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "SnkSynthesis",
+      "name": "SnkSynthesis",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63564282?v=4",
+      "profile": "https://github.com/SnkSynthesis",
+      "contributions": [
+        "tutorial",
+        "maintenance",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "fastapi-series",
+  "projectOwner": "IsaiahT-Tech",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
