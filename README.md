@@ -1,4 +1,7 @@
 # FastAPI Series
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 1. [FastAPI Series | Tutorial 01 (Getting Started)](https://www.youtube.com/watch?v=tKL6wEqbyNs)
 2. [FastAPI Series | Tutorial 02 (Path and Query Parameters)](https://www.youtube.com/watch?v=uldt_GTvZFI)
@@ -19,3 +22,23 @@
 * **[FastAPI Docs](https://fastapi.tiangolo.com)**
 * **[FastAPI Github Repository](https://github.com/tiangolo/fastapi)**
 
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/SnkSynthesis"><img src="https://avatars.githubusercontent.com/u/63564282?v=4?s=100" width="100px;" alt=""/><br /><sub><b>SnkSynthesis</b></sub></a><br /><a href="#tutorial-SnkSynthesis" title="Tutorials">✅</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
