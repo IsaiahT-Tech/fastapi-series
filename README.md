@@ -12,6 +12,7 @@
 8. [FastAPI Series | Tutorial 08 (Basic Jinja2 Templates with FastAPI)](https://youtu.be/hCMNST2BKpU)
 9. [FastAPI Series | Tutorial 09 Async SQLalchemy with Databases](https://youtu.be/tplFMhr1HPI)
 10. [FastAPI Series | Tutorial 10 Introduction to Testing with FastAPI](https://youtu.be/J7wh5iCydDI)
+11. [FastAPI Series | Tutorial 11 (Testing A Todo API)](https://youtu.be/bBM-heTAwCA)
 
 #### FastAPI
 
