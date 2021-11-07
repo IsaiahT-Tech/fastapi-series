@@ -4,6 +4,6 @@ from fastapi.templating import Jinja2Templates
 
 app = FastAPI()
 
-@app.get("/book/{id}", response_class=HTMLResponse)
+@app.get("/{book}/{id}", response_class=HTMLResponse)
 async def read(request: Request, book: str, id: int):
     return templates.TemplateResponse("index.html", {"request": request, "book": book, "id": id})
