@@ -2,7 +2,7 @@ click==7.1.2
 fastapi==0.109.1
 h11==0.16.0
 pydantic==1.10.13
-starlette==0.40.0
+starlette==0.47.2
 uvicorn==0.12.2
 databases==0.4.1
 tortoise-orm==0.16.21
